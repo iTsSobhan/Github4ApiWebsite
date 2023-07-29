@@ -21,7 +21,7 @@
 
 <br>
 
-<h2 align='center'><b>Language used in This Project</h2>
+<h2 align='center'><b>Technologies used in This Project</h2>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
