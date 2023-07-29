@@ -3,13 +3,13 @@
 <br><br>
 <div align='center'>
 <h2 align='center'><b>Feel Free to get User's Information on Github</b></h2>
-<img src="https://github.com/shervinbdndev/Github4ApiWebsite/blob/master/Backend/gifs/user_info.gif"></img>
+<img src="https://github.com/shervinbdndev/Github4ApiWebsite/blob/master/gifs/user_info.gif"></img>
 <br>
-<h2 align='center'><b>Written in Python 3.11.3</b></h2>
-<img src="https://github.com/shervinbdndev/Github4ApiWebsite/blob/master/Backend/gifs/repo_info.gif"></img>
+<h2 align='center'><b>Also you can Achieve some of their Repository Information</b></h2>
+<img src="https://github.com/shervinbdndev/Github4ApiWebsite/blob/master/gifs/repo_info.gif"></img>
 <br>
-<h2 align='center'><b>Written in Python 3.11.3</b></h2>
-<img src="https://github.com/shervinbdndev/Github4ApiWebsite/blob/master/Backend/gifs/responsiveness.gif"></img>
+<h2 align='center'><b>With Full Responsiveness</b></h2>
+<img src="https://github.com/shervinbdndev/Github4ApiWebsite/blob/master/gifs/responsievness.gif"></img>
 </div>
 
 <br>
